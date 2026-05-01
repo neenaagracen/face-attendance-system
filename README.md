@@ -78,7 +78,8 @@ attendance/attendance.csv
 
 ## 📌 Note
 
-The dataset is not included in this repository. Users can register faces using the app itself.
+The dataset is not included in this repository due to privacy reasons.
+Users can register faces and create their own dataset using the application.
 
 ---
 
